@@ -1,0 +1,49 @@
+.user-page-layout {
+  padding: 0.5rem;
+}
+.user-page-layout .btns {
+  flex: 1;
+}
+.user-page-layout .btns .btn {
+  border-radius: 0;
+  padding: 0.3rem;
+  width: 5rem;
+  border: 1px solid #094182;
+  border-radius: 2px;
+}
+.user-page-layout .order-lists {
+  margin: 1rem 0;
+  padding: 0.5rem;
+  background: white;
+}
+.user-page-layout .order-lists h3 {
+  color: #094182;
+  font-weight: 600;
+  font-size: 1.2rem;
+}
+.user-page-layout .order-lists .su {
+  font-weight: 600 !important;
+  color: #5cb85c !important;
+}
+.user-page-layout .order-lists .er {
+  font-weight: 600 !important;
+  color: #d9534f !important;
+}
+.user-page-layout .order-lists .ci {
+  font-weight: 600;
+  color: #f0ad4e;
+}
+.user-page-layout .order-lists p {
+  display: flex;
+  margin: 0.5rem 0;
+}
+.user-page-layout .order-lists span {
+  flex: 1;
+}
+.user-page-layout .order-lists span:nth-child(1) {
+  text-align: left;
+  color: #9c9c9c;
+}
+.user-page-layout .order-lists span:nth-child(2) {
+  text-align: right;
+}

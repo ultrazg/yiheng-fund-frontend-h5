@@ -1,0 +1,28 @@
+.am-navbar-title {
+  color: white !important;
+}
+.about-layout {
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+.about-layout h3 {
+  margin-top: 0.8rem;
+  margin-bottom: 0.8rem;
+  font-size: 1.5rem;
+}
+.about-layout .info1 {
+  font-size: 18px;
+  line-height: 30px;
+  font-weight: 300;
+}
+.about-layout .info2 {
+  margin-top: 20px;
+  font-size: 15px;
+  line-height: 30px;
+  font-weight: 300;
+}
+.about-layout .info2 span {
+  font-weight: 600;
+  color: #093569;
+}
+/*# sourceMappingURL=index.css.map */

@@ -1,0 +1,58 @@
+.login-layout {
+  padding: 0.5rem;
+  text-align: center;
+  background: url("../../Images/backgroundimg.png") no-repeat center 0%;
+}
+.login-layout p {
+  text-align: center;
+  margin-top: 1rem;
+  margin-bottom: 1.3rem;
+  font-size: 1.5rem;
+  color: #094182;
+}
+.login-layout img {
+  display: block;
+  width: 130px;
+  height: 50px;
+  margin: 0.8rem auto;
+}
+.login-layout div {
+  width: 14rem;
+  position: relative;
+  margin: 0 auto;
+}
+.login-layout div label {
+  display: block;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  color: #094182;
+}
+.login-layout div input {
+  display: inline-block;
+  margin: 0.3rem auto;
+  height: 2rem;
+  border: 1px solid #ccc;
+  width: 100%;
+}
+.login-layout div i {
+  font-size: 1.3rem;
+  color: #cccccc;
+  position: absolute;
+  left: 0.5rem;
+  top: 2.3rem;
+}
+.login-layout span {
+  text-align: center;
+  color: deepskyblue;
+  display: inline-block;
+  margin-bottom: 1rem;
+  width: 100%;
+}
+.login-layout .u {
+  margin-top: 1rem;
+}
+.login-layout .u p {
+  font-size: 0.8rem;
+  display: inline;
+}
+/*# sourceMappingURL=index.css.map */

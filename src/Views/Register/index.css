@@ -1,0 +1,78 @@
+.register-layout {
+  text-align: center;
+  padding: 0.5rem;
+  background: url("../../Images/backgroundimg.png") no-repeat center 0%;
+}
+.register-layout p {
+  text-align: center;
+  margin-top: 1rem;
+  margin-bottom: 1.3rem;
+  font-size: 1.5rem;
+  color: #094182;
+}
+.register-layout img {
+  display: block;
+  margin: 0.8rem auto;
+}
+.register-layout div {
+  width: 14rem;
+  position: relative;
+  margin: 0 auto;
+}
+.register-layout div label {
+  display: block;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  color: #094182;
+}
+.register-layout div input {
+  display: inline-block;
+  margin: 0.3rem auto;
+  height: 2rem;
+  border: 1px solid #ccc;
+  width: 100%;
+}
+.register-layout div i {
+  font-size: 1.3rem;
+  color: #cccccc;
+  position: absolute;
+  left: 0.5rem;
+  top: 2.3rem;
+}
+.register-layout div .getVer {
+  position: absolute;
+  height: 2rem;
+  top: 1.9rem;
+  right: 0.2rem;
+  border: none;
+  outline: none;
+  background: none;
+  color: deepskyblue;
+}
+.bo {
+  margin-top: 1rem;
+  padding: 0.5rem;
+}
+.bo .checkBox {
+  text-align: center;
+}
+.bo .checkBox input {
+  vertical-align: middle;
+  height: 1rem;
+  margin-right: 0.5rem;
+}
+.bo .checkBox .ln {
+  color: deepskyblue;
+}
+.bo p {
+  text-align: center;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+.bo p span:nth-child(2) {
+  color: deepskyblue;
+}
+.bo .regBtn {
+  margin-top: 1rem;
+}
+/*# sourceMappingURL=index.css.map */

@@ -1,0 +1,27 @@
+.risk-layout {
+  margin-bottom: 50px;
+  padding: 0.5rem;
+}
+.risk-layout p {
+  color: #a4b0be;
+  font-weight: 300;
+}
+.risk-layout .content p {
+  color: #2f3542;
+  font-weight: 500;
+  margin-top: 15px;
+  text-indent: 28px;
+}
+.risk-layout .content p:nth-child(1) {
+  font-weight: 600;
+  font-size: 18px;
+  text-indent: 0px;
+}
+.risk-layout .content p:nth-last-child(1) {
+  text-indent: 0px;
+}
+.risk-layout .content p:nth-last-child(1) span {
+  font-size: 15px;
+  color: #57606f;
+}
+/*# sourceMappingURL=index.css.map */

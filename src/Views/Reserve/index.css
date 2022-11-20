@@ -1,0 +1,44 @@
+.reserve-layout {
+  padding: 0.5rem;
+  padding-bottom: 1.5rem;
+  background: url("../../Images/backgroundimg.png") no-repeat center 0%;
+}
+.reserve-layout p:nth-child(1) {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-top: 2rem;
+  color: #094182;
+}
+.reserve-layout p:nth-child(2) {
+  text-align: center;
+  color: #999999;
+  margin-top: 0.5rem;
+}
+.reserve-layout .inp-box {
+  text-align: center;
+  margin-top: 1.5rem;
+}
+.reserve-layout .inp-box i {
+  color: #999999;
+  font-size: 1.2rem;
+  margin-right: 10px;
+}
+.reserve-layout .inp-box input {
+  border: none;
+  border-bottom: 1px solid #999999;
+  background: none;
+  font-size: 1.2rem;
+}
+.reserve-layout .sub-btn {
+  margin: 0 auto;
+  text-align: center;
+  line-height: 40px;
+  font-size: 1rem;
+  margin-top: 2rem;
+  width: 170px;
+  height: 40px;
+  background: #094182;
+  color: #f1f1f1;
+}
+/*# sourceMappingURL=index.css.map */

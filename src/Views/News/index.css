@@ -1,0 +1,36 @@
+.news-layout {
+  padding: 0.5rem;
+}
+.news-layout .new li {
+  display: flex;
+  background: #ffffff;
+  border-bottom: 1px solid #f1f1f1;
+}
+.news-layout .new li span {
+  padding: 0.5rem;
+  color: black;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.news-layout .new li span:nth-child(1) {
+  flex: 2;
+}
+.news-layout .new li span:nth-child(1) p {
+  font-size: 0.8rem;
+  color: #999999;
+  text-align: left;
+  padding-top: 0.5rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.news-layout .new li span:nth-child(2) {
+  flex: 1;
+}
+.news-layout .new li span:nth-child(2) img {
+  margin: 0 auto;
+  display: block;
+  width: 87%;
+}
+/*# sourceMappingURL=index.css.map */

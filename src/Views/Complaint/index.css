@@ -1,0 +1,27 @@
+.complaint-layout {
+  padding: 0.5rem;
+}
+.complaint-layout .content p {
+  color: #2f3542;
+  font-weight: 500;
+  margin-top: 15px;
+  text-indent: 28px;
+}
+.complaint-layout .content p:nth-child(1) {
+  font-weight: 600;
+  font-size: 18px;
+  text-indent: 0px;
+}
+.complaint-layout .content p:nth-last-child(1) {
+  text-indent: 0px;
+}
+.complaint-layout .content p:nth-last-child(1) span {
+  font-size: 15px;
+  color: #57606f;
+}
+.complaint-layout .content img {
+  display: block;
+  width: 20%;
+  margin: 0 auto;
+}
+/*# sourceMappingURL=index.css.map */

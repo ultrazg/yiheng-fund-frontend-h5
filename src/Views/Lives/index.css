@@ -1,0 +1,29 @@
+.lives-layout {
+  padding: 0.5rem;
+}
+.lives-layout .title {
+  font-size: 1.3rem;
+  margin-top: 1rem;
+}
+.lives-layout .lists {
+  margin-top: 2rem;
+}
+.lives-layout .lists .list {
+  background: white;
+  margin-top: 0.3rem;
+}
+.lives-layout .lists .list .top img {
+  display: block;
+  width: 100%;
+}
+.lives-layout .lists .list .bottom {
+  padding: 1rem;
+}
+.lives-layout .lists .list .bottom p:nth-child(1) {
+  font-size: 1.2rem;
+}
+.lives-layout .lists .list .bottom p:nth-child(2) {
+  color: #999999;
+  margin-top: 0.5rem;
+}
+/*# sourceMappingURL=index.css.map */

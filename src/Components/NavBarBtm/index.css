@@ -1,0 +1,40 @@
+.nav-btm {
+  width: 100%;
+  height: 3rem;
+  background: #094182;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  display: flex;
+}
+.nav-btm i {
+  margin-right: 0.5rem;
+}
+.nav-btm .red {
+  flex: 1;
+  background: #094182;
+  text-align: center;
+  line-height: 3rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #ffd296;
+}
+.nav-btm .pink {
+  flex: 1;
+  text-align: center;
+  line-height: 3rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #094182;
+  background: #ffd296;
+}
+.nav-btm .hotpink {
+  flex: 1;
+  background: #094182;
+  text-align: center;
+  line-height: 3rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #ffd296;
+}
+/*# sourceMappingURL=index.css.map */

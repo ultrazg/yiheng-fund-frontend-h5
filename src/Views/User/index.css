@@ -1,0 +1,16 @@
+.user-layout .top {
+  padding: 3rem 0 3rem 0;
+  background: url("../../Images/backgroundimg.png") no-repeat center 25%;
+}
+.user-layout .top img {
+  width: 5rem;
+  height: 5rem;
+  border-radius: 50%;
+  margin: 0 auto;
+  display: block;
+}
+.user-layout .top p {
+  text-align: center;
+  margin: 0.8rem 0 0.8rem 0;
+}
+/*# sourceMappingURL=index.css.map */

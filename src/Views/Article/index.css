@@ -1,0 +1,20 @@
+.article-layout {
+  padding: 0.5rem;
+}
+.article-layout .article-info p {
+  text-align: center;
+}
+.article-layout .article-info p:nth-child(1) {
+  font-size: 1.3rem;
+  color: #094182;
+}
+.article-layout .article-info p:nth-child(2) {
+  color: #cccccc;
+  font-size: 0.5rem;
+  margin-top: 0.5rem;
+}
+.article-layout .article-content img {
+  display: block;
+  width: 100%;
+}
+/*# sourceMappingURL=index.css.map */
